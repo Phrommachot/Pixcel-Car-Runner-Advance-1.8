@@ -8,7 +8,8 @@ https://drive.google.com/drive/folders/1KMK_3_3H3w_p39TnUw_-G3VZ71pKCRNE?usp=sha
 2-----.Pixcel Car Runner Advance 1.8 Patch 2  โพลเดอร์เกม.exe
 3-----.UnityPack Pixcel Car Runner Advance 1.8 Patch 2 25-03-2565
 4-----.UnityPack Pixcel Car Runner Advance 1.5 Patch 1 25-02-2565 ตัวเกมวันที่ 25-02-2565
-5-----.วีดีโอตัวเกมเวอร์ชั่นวันที่ 25-02-2565
+5-----.วีดีโอตัวเกมเวอร์ชั่น 1.5 Patch 1 วันที่ 25-02-2565
+6-----.วีดีโอตัวเกมเวอร์ชั่น 1.8 Patch 2 วันที่ 25-02-2565
 
 Patch Gane Developer Verstion.1.5  25-02-2565
 
