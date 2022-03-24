@@ -1,6 +1,15 @@
 58122120-7 Phrommachot sarabut [ พรหมโชติ สาระบุตร ]
 58122120-7 Prison Wilairat [ ไพสณฑ์ วิไลรัตน ]
 
+ตัวเกมทั้งสองเวอร์ชั่น
+https://drive.google.com/drive/folders/1KMK_3_3H3w_p39TnUw_-G3VZ71pKCRNE?usp=sharing
+โฟลเดอร์ไฟล์ประกอบด้วย
+1-----.Pixcel Car Runner Advance 1.5 Patch 1  โพลเดอร์เกม.exe 
+2-----.Pixcel Car Runner Advance 1.8 Patch 2  โพลเดอร์เกม.exe
+3-----.UnityPack Pixcel Car Runner Advance 1.8 Patch 2 25-03-2565
+4-----.UnityPack Pixcel Car Runner Advance 1.5 Patch 1 25-02-2565 ตัวเกมวันที่ 25-02-2565
+5-----.วีดีโอตัวเกมเวอร์ชั่นวันที่ 25-02-2565
+
 Patch Gane Developer Verstion.1.5  25-02-2565
 
 # Pixcel-Car-Runner-Advance-1.8
@@ -38,4 +47,4 @@ Pixcel Car Runner Advance Patch 1.6-1.8
 16.----เพิ่มหน้าต่าง Menu
 17.----Eastter Egg ในหน้าเครดิต
 
-Pixcel-Car-Runner-(Advance) เมื่อคุณอยากพักผ่อนการเดินทางออกจากเมืองที่วุ่นวายเพื่อไปพักผ่อนอาจจะง่ายสําหรับคนอื่นแต่ในเกมนี้คุณจะไม่สามารถเดินทางไปได้ง่ายขนาดนั้นจากการขับรถของคนในเมืองที่ไม่มีระเบียบแบบผนมากกนัก
+Pixcel-Car-Runner-(Advance) เมื่อคุณอยากพักผ่อนการเดินทางออกจากเมืองที่วุ่นวายเพื่อไปพักผ่อนอาจจะง่ายสําหรับคนอื่นแต่ในเกมนี้คุณจะไม่สามารถเดินทางไปได้ง่ายขนาดนั้นจากการขับรถของคนในเมืองที่ไม่มีระเบียบแบบแผนมากกนักจะต้องฝ่าอุปสรรคต่างๆเพื่อออกไปเดินทางพักผ่อนในวันหยุดให้ได้
